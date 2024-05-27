@@ -9275,7 +9275,6 @@ html.is-servicePage .contents__link:hover {
 }
 @media (max-width: 767px) {
   .wr-menu {
-    height: 100vh;
     overflow: hidden;
     left: 100%;
     -webkit-transition: left 1s;
@@ -12443,7 +12442,7 @@ html.is-servicePage .contents__link:hover {
 }
 @media (min-width: 768px) {
   .wr1 {
-    margin-top: 10em;
+    margin-top: 7em;
   }
 }
 .wr1 .circle {
@@ -17387,5 +17386,11 @@ html.is-servicePage .contents__link:hover {
   }
   .companyLegal {
     text-align: left;
+  }
+}
+
+@media (max-width: 768px) {
+  .wr1-icons {
+      margin-top: 104px;
   }
 }
