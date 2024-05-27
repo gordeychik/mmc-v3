@@ -17385,6 +17385,12 @@ html.is-servicePage .contents__link:hover {
 }
 
 @media (max-width: 768px) {
+  .wr5 .vi_img_wr2-lines {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
   .wr1-icons {
       margin-top: 104px;
   }
