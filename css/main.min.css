@@ -9292,11 +9292,6 @@ html.is-servicePage .contents__link:hover {
     left: 0;
   }
 }
-@media (max-width: 767px) {
-  .wr-menu .layout__center {
-    height: 100vh;
-  }
-}
 @media (min-width: 1600px) {
   .wr-menu .layout__center {
     max-width: 100%;
